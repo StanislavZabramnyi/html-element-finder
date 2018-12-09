@@ -2,7 +2,7 @@ Please use next template to run application:
 > java -jar <path_to_jar> htmlElementFinder-1.0-SNAPSHOT-jar-with-dependencies.jar <elements_id> <input_origin_file_path> <input_other_sample_file_path> 
 
  where:
-<path_to_jar> - path to folder where htmlelementfinder.jar is located;
+<path_to_jar> - path to folder where htmlElementFinder-1.0-SNAPSHOT-jar-with-dependencies.jar is located;
  
 <elements_id> - id of element that you want to find;
  
