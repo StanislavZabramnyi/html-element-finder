@@ -19,3 +19,5 @@ sample-3-the-escape.html;
 sample-4-the-mash.html;
 
 All files you can find in "samples" folder.
+
+Results of programm execution you can find in file "Comparison output for sample pages."
