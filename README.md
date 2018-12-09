@@ -12,7 +12,7 @@ Please use next template to run application:
 
 Name of origin html file is "sample-0-origin.html"
 
-Names of differet samles:
+Names of different samles:
 sample-1-evil-gemini.html;
 sample-2-container-and-clone.html;
 sample-3-the-escape.html;
